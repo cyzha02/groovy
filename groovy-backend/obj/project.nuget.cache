@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdJ3ikM5d+49NKMoCSpNObVjOu9EB4UZ1UB5+tpM8JlQ+eWkiceNMTw/OEr9iQPDI1vUIDJec2cIGUa28tGc3w==",
+  "success": true,
+  "projectFilePath": "/Users/carlzhang/Developer/groovy/groovy-backend/groovy-backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlzhang/.nuget/packages/firebaseadmin/3.2.0/firebaseadmin.3.2.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/google.api.gax/4.8.0/google.api.gax.4.8.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/google.api.gax.rest/4.8.0/google.api.gax.rest.4.8.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/google.apis/1.68.0/google.apis.1.68.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/google.apis.auth/1.68.0/google.apis.auth.1.68.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/google.apis.core/1.68.0/google.apis.core.1.68.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/system.codedom/7.0.0/system.codedom.7.0.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/system.management/7.0.2/system.management.7.0.2.nupkg.sha512",
+    "/Users/carlzhang/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
