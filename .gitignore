@@ -1,0 +1,61 @@
+# Frontend 
+# Node modules
+groovy-frontend/node_modules/
+
+# Expo
+groovy-frontend/dist/
+groovy-frontend/web-build/
+groovy-frontend/expo-env.d.ts
+groovy-frontend/.expo/
+
+# Native
+groovy-frontend/.kotlin/
+groovy-frontend/*.orig.*
+groovy-frontend/*.jks
+groovy-frontend/*.p8
+groovy-frontend/*.p12
+groovy-frontend/*.key
+groovy-frontend/*.mobileprovision
+
+# Frontend User
+groovy-frontend/.env
+
+
+
+
+
+# Backend
+groovy-backend/node_modules/
+groovy-backend/dist/
+groovy-backend/build/
+
+# .NET build artifacts
+groovy-backend/bin/
+groovy-backend/obj/
+groovy-backend/*.user
+groovy-backend/*.suo
+groovy-backend/*.cache
+groovy-backend/*.dll
+groovy-backend/*.exe
+groovy-backend/*.pdb
+
+# Backend User
+groovy-backend/.env
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo

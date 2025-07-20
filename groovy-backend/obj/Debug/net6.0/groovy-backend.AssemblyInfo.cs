@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("groovy-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f5999e9a547ab11a4dc42ecbbfd12d73f123e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("groovy-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("groovy-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
